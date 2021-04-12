@@ -4,5 +4,10 @@
   background: hsl(0deg, 0%, 5%);
   color: white;
   text-align: center;
+  font-size: 1.25rem;
+}
+
+.footer a {
+  color: white;
 }
 
